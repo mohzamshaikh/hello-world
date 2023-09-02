@@ -1,5 +1,5 @@
 #include<stdioh
 void main()
 {
-  print f("hello fycs")
-}
+  printf("hello fycs")
+  printf("this is update")
